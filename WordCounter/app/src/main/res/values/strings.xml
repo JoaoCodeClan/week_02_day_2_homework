@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="get_word_count">Count the words!</string>
+    <string name="num_words">words.</string>
+    <string name="get_concordance">Concordance</string>
+    <string name="count_words_text">Type your sentence</string>
+    <string name="count_activity_title">Count Words</string>
+    <string name="about_activity_title">about</string>
+    <string name="settings_activity_title">settings</string>
+    <string name="about_body"> <p> Application done with blood sweat and tears!</p><br></br>
+        <p> Nothing else to declare</p>
+        <br></br><p>Ask kindly and developer might give you more details</p>
+    </string>
+    <string name="settings_message">Under Construction</string>
+    <string name="feature">Feature coming soon</string>
+</resources>
